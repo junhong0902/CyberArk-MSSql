@@ -1,14 +1,21 @@
-# CyberArk-CPMPlugins
+# MSSql with DSNless
+```
+Use default Driver: "SQL Server"
+Import MSSql.zip.
+Make sure the account has the nessesary information
+```
+![alt text](./pic/account-dsnless.jpg)
 
-### Follow steps below to integrate Connection to MSSql with ODBC DSN
+# MSSql with DSN
 1. Install Microsoft® ODBC Driver 13.1 for SQL Server®
 ```
+Always use 32bit!
 https://www.microsoft.com/en-us/download/details.aspx?id=53339
 ```
 
 2. Import platform via PVWA
 ```
-Upload MSSql131.zip.
+Import MSSql131.zip.
 ```
 
 ### Platform configuration
