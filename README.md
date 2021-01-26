@@ -1,4 +1,4 @@
-# MSSql with DSNless
+# MSSql with DSNless connection
 ```
 Use default Driver: "SQL Server"
 Import MSSql.zip.
