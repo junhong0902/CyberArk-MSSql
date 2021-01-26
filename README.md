@@ -7,6 +7,7 @@ Make sure the account has the nessesary information
 ![alt text](./pic/account-dsnless.jpg)
 
 # MSSql with DSN connection
+### Pre-requisites
 1. Install Microsoft® ODBC Driver 13.1 for SQL Server®
 ```
 Always use 32bit!
