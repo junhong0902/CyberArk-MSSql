@@ -6,6 +6,9 @@ Make sure the account has the nessesary information
 ```
 ![alt text](./pic/account-dsnless.jpg)
 
+### Platform configuration
+![alt text](./pic/platform.jpg)
+
 # MSSql with DSN connection
 ### Pre-requisites
 1. Install Microsoft® ODBC Driver 13.1 for SQL Server®
@@ -13,10 +16,6 @@ Make sure the account has the nessesary information
 Always use 32bit!
 https://www.microsoft.com/en-us/download/details.aspx?id=53339
 ```
-
-### Platform configuration
-![alt text](./pic/platform.jpg)
-
 
 2. Import platform via PVWA
 ```
