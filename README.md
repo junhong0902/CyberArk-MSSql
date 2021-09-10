@@ -14,13 +14,15 @@ Always use 32bit!
 https://www.microsoft.com/en-us/download/details.aspx?id=53339
 ```
 
+### Platform configuration
+![alt text](./pic/platform.jpg)
+
+
 2. Import platform via PVWA
 ```
 Import MSSql131.zip.
 ```
 
-### Platform configuration
-![alt text](./pic/platform.jpg)
 ```
 Make sure the Driver parameter is correspond to the driver in ODBC setting.
 ```
